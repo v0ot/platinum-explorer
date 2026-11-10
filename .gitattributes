@@ -1,0 +1,3 @@
+# cmd needs CRLF - store the scripts byte-for-byte
+*.cmd -text
+*.ico binary
